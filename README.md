@@ -1,8 +1,8 @@
-# LeetCode Solutions by Ameed Othman
+# Problem-Solving by Ameed Othman
 
-This repository contains my solutions to various LeetCode problems. I use this space to track my progress, improve problem-solving skills, and share solutions with others.
+This repository contains my solutions to various coding problems from platforms like LeetCode and Codewars. I use this space to track my progress, improve problem-solving skills, and share solutions with others.
 
-## Languages 
+## Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
